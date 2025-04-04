@@ -8,10 +8,3 @@ HTML, CSS, JavaScript
 React (or any other framework you used)
 
 Responsive design
-
-🚀 Features
-About Me section
-
-Projects with live links
-
-Skills & technologies
